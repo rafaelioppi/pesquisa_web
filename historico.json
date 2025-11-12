@@ -1,0 +1,68 @@
+[
+  {
+    "assunto": "notícias atuais Rio Grande do Sul",
+    "prompt": "Crie um post inspirador para o X (máx 344 caracteres), usando emojis e hashtags.\n  Use como base estas informações, mas NÃO copie manchetes, NÃO cite veículos de imprensa e NÃO inclua links: Resumo positivo e inspirador sobre notícias atuais Rio Grande do Sul: sem resultados recentes.",
+    "resultado": "No coração do Rio Grande do Sul, a resiliência floresce a cada dia. 🌱 Longe dos holofotes, a união e o trabalho incansável reescrevem histórias. A esperança é a nossa semente, o futuro, a nossa colheita. Gaúchos inspiram! ✨ Seguimos juntos com fé e força. 🙏 #ForçaRS #Reconstrução #OrgulhoGaúcho",
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "wOAUaaXNL-eQjrEPvZGw8QQ",
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 89,
+      "totalTokenCount": 1260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "thoughtsTokenCount": 1105
+    },
+    "data": "2025-11-12T19:32:16.835Z"
+  },
+  {
+    "assunto": "notícias atuais Rio Grande do Sul",
+    "prompt": "Crie um post inspirador para o X (máx 344 caracteres), usando emojis e hashtags.\n  Use como base estas informações, mas NÃO copie manchetes, NÃO cite veículos de imprensa e NÃO inclua links: Resumo positivo e inspirador sobre notícias atuais Rio Grande do Sul: sem resultados recentes.",
+    "resultado": "❌ Falha na geração de conteúdo.",
+    "data": "2025-11-12T19:34:55.438Z"
+  },
+  {
+    "assunto": "notícias atuais Rio Grande do Sul",
+    "prompt": "Crie um post inspirador para o X (máx 344 caracteres), usando emojis e hashtags.\n  Use como base estas informações, mas NÃO copie manchetes, NÃO cite veículos de imprensa e NÃO inclua links: Resumo positivo e inspirador sobre notícias atuais Rio Grande do Sul: sem resultados recentes.",
+    "resultado": "No Rio Grande do Sul, a cada novo amanhecer, a força da nossa gente brilha ainda mais! ✨ A união é inabalável e a esperança guia cada passo. Juntos, seguimos inspirando e construindo um futuro resiliente. 💚💛\n\n#ForçaRS #RioGrandeDoSul #Reconstrução",
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "bOEUaejGEaHVjMcP-aGl-Q4",
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 70,
+      "totalTokenCount": 1470,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "thoughtsTokenCount": 1334
+    },
+    "data": "2025-11-12T19:35:08.343Z"
+  },
+  {
+    "assunto": "notícias atuais Rio Grande do Sul",
+    "prompt": "Crie um post inspirador para o X (máx 344 caracteres), usando emojis e hashtags.\n  Use como base estas informações, mas NÃO copie manchetes, NÃO cite veículos de imprensa e NÃO inclua links: Resumo positivo e inspirador sobre notícias atuais Rio Grande do Sul: sem resultados recentes.",
+    "resultado": "Aqui está uma sugestão:\n\nA resiliência do Rio Grande do Sul continua a inspirar! ✨ A ausência de novas adversidades nos lembra que a reconstrução é um processo constante. Com união e esperança, cada dia é um passo firme rumo a um futuro brilhante. 💚💛 #ForçaRS #UniãoGaúcha #Recomeço",
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "duEUaemeI4nfjrEPxf7M8AY",
+    "usageMetadata": {
+      "promptTokenCount": 66,
+      "candidatesTokenCount": 78,
+      "totalTokenCount": 1296,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 66
+        }
+      ],
+      "thoughtsTokenCount": 1152
+    },
+    "data": "2025-11-12T19:35:18.625Z"
+  }
+]
